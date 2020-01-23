@@ -20,13 +20,14 @@ Por não ter muitas dependências, o ambiente é muito simples de ser montado, p
 ### Executando o aplicativo
 Depois de baixado, para executar o app, podemos usar o seguinte comando:
 ```node index.js 10```
+
 Onde 10 é o número de iterações que queremos (ou qualquer parâmetro)
 
 ### Baixando o código pra sua máquina
 O GitHub já possui as funções de clone, mas é interessante se familiarizar com os comandos git, já que para trabalhar em uma equipe com mais de um programador, isso é fundamental. 
 
 No terminal (prompt de comando), digitar o seguinte comando:
-```git clone https://github.com/gabriel-ayusso/vinicius-teste.git````
+```git clone https://github.com/gabriel-ayusso/vinicius-teste.git```
 Isso vai criar uma pasta no diretório onde você está chamada vinicius-teste e dentro dela vai baixar todos os arquivos do projeto.
 
 ### Algumas Dicas
